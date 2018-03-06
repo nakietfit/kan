@@ -167,13 +167,13 @@ body {
 }
 
 .like {
-    margin: 80px 0 0 18px;
+    margin: 76px 0 0 18px;
 }
 
 #tweet-box {
     border: #a4cce5 solid 0.5px;
     border-radius: 2.5px;
-    background: linear-gradient(transparent, white 50%, #d5e6ef 50%);
+    background: linear-gradient(transparent, rgb(247, 250, 253) 50%, #d5e6ef 50%);
     color: #186487;
     padding: 2.5px;
     position: relative;
